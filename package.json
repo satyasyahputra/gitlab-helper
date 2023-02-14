@@ -1,6 +1,6 @@
 {
-  "name": "gitlab-helper",
-  "version": "1.0.0",
+  "name": "@satyasyahputra/gitlab-helper",
+  "version": "1.0.3",
   "description": "Help your repeatitive activity",
   "main": "index.js",
   "bin": {
@@ -11,6 +11,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "satyasyahputra",
+  "repository": {
+    "url": "https://github.com/satyasyahputra/gitlab-helper"
+  },
+  "keywords": [
+    "git",
+    "gitlab",
+    "cli",
+    "node cli"
+  ],
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
