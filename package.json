@@ -1,10 +1,10 @@
 {
   "name": "@satyasyahputra/gitlab-helper",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Help your repeatitive activity",
   "main": "index.js",
   "bin": {
-    "rebase-mr": "./bin/rebase-mr.js"
+    "rebase-mr": "bin/rebase-mr.js"
   },
   "type": "module",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "author": "satyasyahputra",
   "repository": {
-    "url": "https://github.com/satyasyahputra/gitlab-helper"
+    "url": "git+https://github.com/satyasyahputra/gitlab-helper.git"
   },
   "keywords": [
     "git",
